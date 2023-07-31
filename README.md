@@ -1,4 +1,4 @@
-# Unnamed Project
+# Instgram Collection Downloader
 
 I wrote this script because I wanted to download my saved posts and the third-party APIs 
 I found on Github didn't work for me.
