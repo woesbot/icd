@@ -1,0 +1,5 @@
+__pycache__/
+saved-posts/
+.venv/
+.env/
+.id_cache
